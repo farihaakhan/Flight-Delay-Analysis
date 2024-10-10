@@ -37,6 +37,16 @@ The aviation industry is dynamic, with various factors influencing flight operat
 3.  **Weather Impact on Delays**:
     - Group data by wind speed (greater or less than 10 mph) to analyze its effect on delays at each airport.
     - If the precipitation (greater than 20) level impact the delays
+## **Result**
+**Routes**
+![image](https://github.com/user-attachments/assets/77cbe070-d702-4702-8b4f-c6e182017ac9)
+
+**Airlines**
+![image](https://github.com/user-attachments/assets/72325f88-6761-46b4-b746-41fe9f14f60b)
+
+**Wind Impact**
+![image](https://github.com/user-attachments/assets/6ddbc789-981c-40c9-bb68-57bb608e8e9b)
+
 
 ## Conclusion
 The findings provide valuable insights for both airlines and passengers, suggesting that weather conditions, particularly wind gusts, play a significant role in flight delays. Further steps could involve deeper analysis into other variables like seasonal trends and airline-specific operational issues.
