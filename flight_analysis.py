@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns  # Import seaborn for plotting
 
-# Start your code here!
 # Load the datasets
 df1 = pd.read_csv('flights2022.csv')
 df2 = pd.read_csv('flights_weather2022.csv')
